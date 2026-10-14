@@ -9,7 +9,7 @@ The objective of this engagement was to evaluate the security posture of OWASP J
 **Tools Utilized:**
 *   **Burp Suite Community Edition** (Traffic interception, parameter tampering)
 *   **Browser Developer Tools** (Client-side logic analysis, route discovery)
-*   **Gobuster / FFuF** (Directory enumeration)
+*   **Gobuster** (Directory enumeration)
 *   **OSINT** (Background profiling for authentication bypass)
 
 ## 🛑 Key Findings Summary
